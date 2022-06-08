@@ -12,4 +12,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with computer science
 - 💬 Ask me about soccer
 - ⚡ Fun fact: I'm 5ft 8in tall
+- I want to learn how to make video games in computer science.
+- I think it's important because then you know more about computers and you can use computers faster and more efficiently.
+- ![Soccer player](https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg)
 -->
